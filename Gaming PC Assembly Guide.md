@@ -97,4 +97,3 @@ Install the chosen operating system and all necessary drivers.
 3. **Boot from USB:** Reboot the computer. The system will automatically boot from the USB drive. Follow the on-screen prompts for language, license agreement, and drive selection.
 
 4. **Install Drivers:** After the OS installation, download and install the latest drivers for the motherboard, GPU, and other components from the manufacturers' websites.
-
