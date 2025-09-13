@@ -1,3 +1,13 @@
+
+
+## Table of Contents
+* [How to Make Espresso with a Breville Barista Express](#how-to-make-espresso-with-a-breville-barista-express)
+* [Step 1: Prepare the Machine](#step-1-prepare-the-machine)
+* [Step 2: Grind the Beans](#step-2-grind-the-beans)
+* [Step 3: Grind the Beans](#step-3-tamp-and-prep)
+* [Step 4: Pull the Shot](#step-4-pull-the-shot)
+* [Step 5: Adjust and Enjoy](#step-5-adjust-and-enjoy)
+
 # How to Make Espresso with a Breville Barista Express
 
 The Breville Barista Express is an all-in-one espresso machine that grinds, doses, and extracts espresso. This guide will walk you through the steps to pull a perfect shot.
