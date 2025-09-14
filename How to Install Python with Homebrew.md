@@ -10,6 +10,7 @@ Homebrew is a free and open-source software package management system that simpl
 ```
 /bin/bash -c "$(curl -fsSL [https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh](https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh))"
 ```
+
 > [!NOTE]
 > This command downloads and runs the Homebrew installation script from its GitHub repository,
 found at [GitHub Homebrew Install](https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh).
@@ -26,6 +27,7 @@ found at [GitHub Homebrew Install](https://raw.githubusercontent.com/Homebrew/in
 echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/your-username/.zprofile
 eval "$(/opt/homebrew/bin/brew shellenv)"
 ```
+
 > [!NOTE]
 > After the installation is complete, the script will provide two commands to add Homebrew to the user's shell PATH.
 > This ensures that brew commands can be used from anywhere within the Terminal app.
@@ -41,7 +43,7 @@ brew --version
 With Homebrew installed, it can now be used to effortlessly install Python 3 and other packages.
 
 1. Run the following command to install Python.
-   
+
 ```
 brew install python3
 ```
@@ -62,6 +64,7 @@ python3 --version
 ```
 print("Hello, Homebrew!")
 ```
+
 2. Run the script.
 
 ```
