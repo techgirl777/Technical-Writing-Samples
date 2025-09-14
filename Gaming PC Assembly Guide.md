@@ -2,11 +2,13 @@
 
 Building a gaming computer is a rewarding and precise process. This guide provides a comprehensive overview of the steps involved, from initial planning to final operating system installation.
 
+
 ## Initial Planning & Component Selection
 
 ### Step 1: Acquire a Component List
 
 Establish a budget and define the intended use of the computer. Plan the build around the desired performance and graphical fidelity. Utilize a compatibility checker tool on a site such as [PCPartPicker](https://pcpartpicker.com/) to prevent common assembly errors. Purchase components from a variety of reputable online retailers, including [Amazon](https://www.amazon.com/), [Newegg](https://www.newegg.com/), and [Best Buy](https://www.bestbuy.com/). Consult the manufacturers' websites and community forums to cross-reference compatibility and resolve potential issues.
+
 
 ## Component Inventory
 
@@ -37,6 +39,7 @@ Select the core components based on the planned build. Secure all parts before b
 * **Monitor:** Select a monitor that matches the output capability of the chosen GPU. A high refresh rate (144Hz+) enhances the gaming experience.
 
 * **Network Card:** Use the integrated network card on the motherboard for a wired connection, or acquire a Wi-Fi card for a wireless setup.
+  
 
 ## Preparation & Tools
 
@@ -51,6 +54,7 @@ Assemble the required tools and prepare the workspace before handling any compon
 * **Anti-Static Wrist Strap:** Attach a wrist strap to a metal part of the case to prevent static discharge from damaging sensitive components.
 
 * **Thermal Paste:** Apply a small amount of thermal paste to the CPU's heat spreader before installing the cooler.
+  
 
 ## The Assembly Process
 
@@ -70,6 +74,7 @@ Assemble the components in a logical order to streamline the build.
 
 6. **Manage Cables:** Route and secure all cables to improve airflow and create a clean aesthetic.
 
+
 ## System Configuration
 
 ### Step 5: Power On and Enter BIOS
@@ -85,6 +90,7 @@ The system's firmware must be configured before the operating system is installe
     - **Set Boot Order:** Prioritize the bootable USB drive as the first boot option.
 
     - **Check Hardware:** Verify that the BIOS correctly detects all components, including the CPU, RAM, and storage drives.
+   
 
 ### Step 6: Install the Operating System
 
