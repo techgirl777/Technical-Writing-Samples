@@ -4,13 +4,13 @@ Building a gaming computer is a rewarding and precise process. This guide provid
 
 ## Initial Planning & Component Selection
 
-### Acquire a Component List
+### Step 1: Acquire a Component List
 
 Establish a budget and define the intended use of the computer. Plan the build around the desired performance and graphical fidelity. Utilize a compatibility checker tool on a site such as [PCPartPicker](https://pcpartpicker.com/) to prevent common assembly errors. Purchase components from a variety of reputable online retailers, including [Amazon](https://www.amazon.com/), [Newegg](https://www.newegg.com/), and [Best Buy](https://www.bestbuy.com/). Consult the manufacturers' websites and community forums to cross-reference compatibility and resolve potential issues.
 
 ## Component Inventory
 
-### Select and Procure Hardware
+### Step 2: Select and Procure Hardware
 
 Select the core components based on the planned build. Secure all parts before beginning assembly.
 
@@ -40,7 +40,7 @@ Select the core components based on the planned build. Secure all parts before b
 
 ## Preparation & Tools
 
-### Gather Necessary Equipment
+### Step 3: Gather Necessary Equipment
 
 Assemble the required tools and prepare the workspace before handling any components.
 
@@ -54,7 +54,7 @@ Assemble the required tools and prepare the workspace before handling any compon
 
 ## The Assembly Process
 
-### Construct the System
+### Step 4: Construct the System
 
 Assemble the components in a logical order to streamline the build.
 
@@ -72,7 +72,7 @@ Assemble the components in a logical order to streamline the build.
 
 ## System Configuration
 
-### Power On and Enter BIOS
+### Step 5: Power On and Enter BIOS
 
 The system's firmware must be configured before the operating system is installed.
 
@@ -80,13 +80,13 @@ The system's firmware must be configured before the operating system is installe
 
 2. **BIOS Settings:**
 
-3. **Enable XMP/DOCP:** Configure the RAM to run at its advertised speed by enabling the eXtreme Memory Profile (XMP) or similar setting.
+    - **Enable XMP/DOCP:** Configure the RAM to run at its advertised speed by enabling the eXtreme Memory Profile (XMP) or similar setting.
 
-4. **Set Boot Order:** Prioritize the bootable USB drive as the first boot option.
+    - **Set Boot Order:** Prioritize the bootable USB drive as the first boot option.
 
-5. **Check Hardware:** Verify that the BIOS correctly detects all components, including the CPU, RAM, and storage drives.
+    - **Check Hardware:** Verify that the BIOS correctly detects all components, including the CPU, RAM, and storage drives.
 
-### Install the Operating System
+### Step 6: Install the Operating System
 
 Install the chosen operating system and all necessary drivers.
 
