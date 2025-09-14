@@ -5,7 +5,7 @@ The Breville Barista Express is an all-in-one espresso machine that grinds, dose
 ## Table of Contents
 * [Step 1: Prepare the Machine](#step-1-prepare-the-machine)
 * [Step 2: Grind the Beans](#step-2-grind-the-beans)
-* [Step 3: Grind the Beans](#step-3-tamp-and-prep)
+* [Step 3: Tamp and Prep](#step-3-tamp-and-prep)
 * [Step 4: Pull the Shot](#step-4-pull-the-shot)
 * [Step 5: Adjust and Enjoy](#step-5-adjust-and-enjoy)
 
