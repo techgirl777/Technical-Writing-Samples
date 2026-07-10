@@ -34,4 +34,4 @@ Deep terminal proficiency; experienced in exercising branch autonomy, managing C
 * **Information Engineering:** Designs rigorous technical layout frameworks, standardizing information delivery to optimize readability, structural integrity, and long-term data sustainability.
 ---
 
-📬 **Connect with me:** [LinkedIn](http://linkedin.com/in/melindacuffy) | [Technical Writing Samples Repository](https://github.com/techgirl777/Technical-Writing-Samples)
+📬 **Connect with me:** [LinkedIn](http://linkedin.com/in/melindacuffy) | [Technical Writing Samples Repository](https://github.com/techgirl777/Technical-Writing-Samples) | [Etsy Shop](https://www.etsy.com/shop/MiniDocs)
