@@ -26,12 +26,11 @@ Deep terminal proficiency; experienced in exercising branch autonomy, managing C
 
 ---
 
----
-
 ### 🚀 Production Information Architecture
 
 * **Structural System Optimization:** Expert at analyzing unstructured technical data, identifying systemic documentation gaps, and building repeatable informational design hierarchies that scale across global engineering organizations.
 * **Information Engineering:** Designs rigorous technical layout frameworks, standardizing information delivery to optimize readability, structural integrity, and long-term data sustainability.
----
+* **Featured Documentation:** [Engineering-Progression-Logic-Scope-Data-Normalization](https://docs.google.com/document/d/1rPb4qgVKqJw2quOrkvt1hPH7D6hCOo4VKhbgu8H0Nes/edit?usp=share_link)
+* **Live Executive Telemetry:** [Global Subsea Infrastructure Audit Dashboard](https://datastudio.google.com/reporting/b9c051b3-1b03-4274-acb9-4d26bc2d6461)
 
 📬 **Connect with me:** [LinkedIn](http://linkedin.com/in/melindacuffy) | [Technical Writing Samples Repository](https://github.com/techgirl777/Technical-Writing-Samples) | [Etsy Shop](https://www.etsy.com/shop/MiniDocs)
